@@ -1,0 +1,18 @@
+# Target directory (compiled classes and JARs)
+target/
+
+# IDE files and directories
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# System / log files
+*.log
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
